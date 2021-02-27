@@ -20,14 +20,6 @@ public class CanvAASTrials {
             System.out.println("Printing Parameters: "+param);
         }
 
-        try {
-            String receivedValue = exceptionCheck("Tapanta");
-            System.out.println(receivedValue);
-        }
-        catch (RuntimeException e) {
-            System.out.println(e.getMessage());
-        }
-
 
     }
 
@@ -64,8 +56,4 @@ public class CanvAASTrials {
         return inputParameters;
     }
 
-    public static String exceptionCheck(String randomVariable) {
-
-        randomVariable += " (Updated)";
-    }
 }
