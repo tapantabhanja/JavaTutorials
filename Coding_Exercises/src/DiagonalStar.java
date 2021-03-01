@@ -1,3 +1,6 @@
+/**
+ * Updating this doc to make a commit with multiline commit message. 
+ */
 public class DiagonalStar {
 
     public static void main(String[] args) {
