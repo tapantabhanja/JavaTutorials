@@ -1,5 +1,6 @@
 /**
- * Updating this doc to make a commit with multiline commit message. 
+ * Updating this doc to make a commit with multiline commit message.
+ * Adding more lines in the doc. 
  */
 public class DiagonalStar {
 
