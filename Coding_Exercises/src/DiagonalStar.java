@@ -1,6 +1,7 @@
 /**
  * Updating this doc to make a commit with multiline commit message.
- * Adding more lines in the doc. 
+ * Adding more lines in the doc.
+ * Adding lines to check if the git config works to update the commits with proper author name. 
  */
 public class DiagonalStar {
 
