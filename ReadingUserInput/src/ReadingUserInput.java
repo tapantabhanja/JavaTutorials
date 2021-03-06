@@ -4,6 +4,7 @@ public class ReadingUserInput {
 
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter your year of birth: ");
@@ -21,6 +22,7 @@ public class ReadingUserInput {
             if (age >= 0 && age <= 100) {
                 System.out.println("Hi " + name + ", you current age is - " + age);
             }
+
             else {
                 System.out.println("Invalid year of birth");
             }
@@ -30,7 +32,9 @@ public class ReadingUserInput {
         else {
             System.out.println("Unable to parse year of birth.");
         }
+
         scanner.close();
+
     }
 
 }
