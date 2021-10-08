@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Locale;
 
-public class Main {
+public class Switch {
 
     public static void main(String[] args) {
 	// write your code here
