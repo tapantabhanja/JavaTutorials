@@ -19,5 +19,7 @@
 	<classpathentry kind="src" path="StatementsWhiteSpaceIndenting/src"/>
 	<classpathentry kind="src" path="Strings/src"/>
 	<classpathentry kind="src" path="Switch/src"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Composition"/>
 	<classpathentry kind="output" path="ByteShortIntLong/out/production/ByteShortIntLong"/>
 </classpath>
